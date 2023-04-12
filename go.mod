@@ -12,8 +12,8 @@ require (
 	github.com/gliderlabs/ssh v0.3.5
 	github.com/go-rod/rod v0.112.2
 	github.com/muesli/go-app-paths v0.2.2
-	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d
-	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035
+	golang.org/x/crypto v0.8.0
+	golang.org/x/term v0.7.0
 )
 
 require (
@@ -50,6 +50,6 @@ require (
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/spf13/cobra v1.6.1
 	github.com/ysmood/gson v0.7.3 // indirect
-	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
-	golang.org/x/sys v0.0.0-20221013171732-95e765b1cc43
+	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/sys v0.7.0
 )
